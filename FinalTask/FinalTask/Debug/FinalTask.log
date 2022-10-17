@@ -1,0 +1,13 @@
+﻿  classes.cpp
+C:\Users\DELL\Downloads\Telegram Desktop\YarbAhmedNasrYmot\FinalTask\FinalTask\classes.cpp(162,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DELL\Downloads\Telegram Desktop\YarbAhmedNasrYmot\FinalTask\FinalTask\classes.cpp(241,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DELL\Downloads\Telegram Desktop\YarbAhmedNasrYmot\FinalTask\FinalTask\classes.cpp(1133,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DELL\Downloads\Telegram Desktop\YarbAhmedNasrYmot\FinalTask\FinalTask\classes.cpp(1260,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\DELL\Downloads\Telegram Desktop\YarbAhmedNasrYmot\FinalTask\FinalTask\classes.cpp(1535,52): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\DELL\Downloads\Telegram Desktop\YarbAhmedNasrYmot\FinalTask\FinalTask\classes.cpp(1670,63): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\DELL\Downloads\Telegram Desktop\YarbAhmedNasrYmot\FinalTask\FinalTask\classes.cpp(1755,31): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\DELL\Downloads\Telegram Desktop\YarbAhmedNasrYmot\FinalTask\FinalTask\classes.cpp(1793,26): warning C4101: 'priceOfProduct': unreferenced local variable
+C:\Users\DELL\Downloads\Telegram Desktop\YarbAhmedNasrYmot\FinalTask\FinalTask\classes.cpp(1789,17): warning C4101: 'productSellerID': unreferenced local variable
+C:\Users\DELL\Downloads\Telegram Desktop\YarbAhmedNasrYmot\FinalTask\FinalTask\classes.cpp(1793,9): warning C4101: 'productQuantity': unreferenced local variable
+C:\Users\DELL\Downloads\Telegram Desktop\YarbAhmedNasrYmot\FinalTask\FinalTask\classes.cpp(1789,6): warning C4101: 'productID': unreferenced local variable
+  FinalTask.vcxproj -> C:\Users\DELL\Downloads\Telegram Desktop\YarbAhmedNasrYmot\FinalTask\Debug\FinalTask.exe

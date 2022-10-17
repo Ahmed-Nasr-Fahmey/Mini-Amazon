@@ -1,0 +1,8 @@
+125 Dress clothes 500 65 3000
+255 banana fruits 5 65 8.5
+151 mango fruits 45 115 35
+56 apple fruits 125 115 12
+23 mshmsh fruits 408 115 40
+61 banana fruits 5 61 10
+130 tomatoe vegetables 20 65 14
+71 3nb fruits 30 58 35
